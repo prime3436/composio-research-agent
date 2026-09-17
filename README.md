@@ -3,6 +3,9 @@
 > **Take-Home Assessment for AI Product Ops Intern**  
 > An autonomous research pipeline auditing 100 SaaS apps across 10 categories to determine authentication mechanisms, self-serve developer access, API surfaces, MCP compatibility, and zero-touch agent buildability.
 
+- **🌐 Live Deployed Case Study:** [https://prime3436.github.io/composio-research-agent/](https://prime3436.github.io/composio-research-agent/)
+- **📦 GitHub Repository:** [https://github.com/prime3436/composio-research-agent](https://github.com/prime3436/composio-research-agent)
+
 ---
 
 ## 📊 Executive Summary & Key Metrics
